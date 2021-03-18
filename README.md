@@ -1,0 +1,3 @@
+# Documentation
+
+Best website ever
